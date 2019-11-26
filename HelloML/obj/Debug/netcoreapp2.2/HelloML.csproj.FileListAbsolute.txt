@@ -1,0 +1,11 @@
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HelloML\bin\Debug\netcoreapp2.2\HelloML.deps.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HelloML\bin\Debug\netcoreapp2.2\HelloML.runtimeconfig.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HelloML\bin\Debug\netcoreapp2.2\HelloML.runtimeconfig.dev.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HelloML\bin\Debug\netcoreapp2.2\HelloML.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HelloML\bin\Debug\netcoreapp2.2\HelloML.pdb
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HelloML\obj\Debug\netcoreapp2.2\HelloML.csprojAssemblyReference.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HelloML\obj\Debug\netcoreapp2.2\HelloML.csproj.CoreCompileInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HelloML\obj\Debug\netcoreapp2.2\HelloML.AssemblyInfoInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HelloML\obj\Debug\netcoreapp2.2\HelloML.AssemblyInfo.cs
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HelloML\obj\Debug\netcoreapp2.2\HelloML.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HelloML\obj\Debug\netcoreapp2.2\HelloML.pdb

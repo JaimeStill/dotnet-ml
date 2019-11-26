@@ -1,0 +1,11 @@
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\AnomalyDetection\bin\Debug\netcoreapp2.2\AnomalyDetection.deps.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\AnomalyDetection\bin\Debug\netcoreapp2.2\AnomalyDetection.runtimeconfig.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\AnomalyDetection\bin\Debug\netcoreapp2.2\AnomalyDetection.runtimeconfig.dev.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\AnomalyDetection\bin\Debug\netcoreapp2.2\AnomalyDetection.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\AnomalyDetection\bin\Debug\netcoreapp2.2\AnomalyDetection.pdb
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\AnomalyDetection\obj\Debug\netcoreapp2.2\AnomalyDetection.csprojAssemblyReference.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\AnomalyDetection\obj\Debug\netcoreapp2.2\AnomalyDetection.csproj.CoreCompileInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\AnomalyDetection\obj\Debug\netcoreapp2.2\AnomalyDetection.AssemblyInfoInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\AnomalyDetection\obj\Debug\netcoreapp2.2\AnomalyDetection.AssemblyInfo.cs
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\AnomalyDetection\obj\Debug\netcoreapp2.2\AnomalyDetection.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\AnomalyDetection\obj\Debug\netcoreapp2.2\AnomalyDetection.pdb

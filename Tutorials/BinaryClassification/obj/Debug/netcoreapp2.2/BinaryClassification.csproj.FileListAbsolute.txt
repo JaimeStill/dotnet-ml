@@ -1,0 +1,11 @@
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\BinaryClassification\bin\Debug\netcoreapp2.2\BinaryClassification.deps.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\BinaryClassification\bin\Debug\netcoreapp2.2\BinaryClassification.runtimeconfig.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\BinaryClassification\bin\Debug\netcoreapp2.2\BinaryClassification.runtimeconfig.dev.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\BinaryClassification\bin\Debug\netcoreapp2.2\BinaryClassification.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\BinaryClassification\bin\Debug\netcoreapp2.2\BinaryClassification.pdb
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\BinaryClassification\obj\Debug\netcoreapp2.2\BinaryClassification.csprojAssemblyReference.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\BinaryClassification\obj\Debug\netcoreapp2.2\BinaryClassification.csproj.CoreCompileInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\BinaryClassification\obj\Debug\netcoreapp2.2\BinaryClassification.AssemblyInfoInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\BinaryClassification\obj\Debug\netcoreapp2.2\BinaryClassification.AssemblyInfo.cs
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\BinaryClassification\obj\Debug\netcoreapp2.2\BinaryClassification.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\BinaryClassification\obj\Debug\netcoreapp2.2\BinaryClassification.pdb

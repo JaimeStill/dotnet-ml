@@ -1,0 +1,11 @@
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MatrixFactorization\bin\Debug\netcoreapp2.2\MatrixFactorization.deps.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MatrixFactorization\bin\Debug\netcoreapp2.2\MatrixFactorization.runtimeconfig.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MatrixFactorization\bin\Debug\netcoreapp2.2\MatrixFactorization.runtimeconfig.dev.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MatrixFactorization\bin\Debug\netcoreapp2.2\MatrixFactorization.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MatrixFactorization\bin\Debug\netcoreapp2.2\MatrixFactorization.pdb
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MatrixFactorization\obj\Debug\netcoreapp2.2\MatrixFactorization.csprojAssemblyReference.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MatrixFactorization\obj\Debug\netcoreapp2.2\MatrixFactorization.csproj.CoreCompileInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MatrixFactorization\obj\Debug\netcoreapp2.2\MatrixFactorization.AssemblyInfoInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MatrixFactorization\obj\Debug\netcoreapp2.2\MatrixFactorization.AssemblyInfo.cs
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MatrixFactorization\obj\Debug\netcoreapp2.2\MatrixFactorization.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MatrixFactorization\obj\Debug\netcoreapp2.2\MatrixFactorization.pdb

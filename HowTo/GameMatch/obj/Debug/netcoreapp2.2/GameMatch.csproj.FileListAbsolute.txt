@@ -1,0 +1,11 @@
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\GameMatch\bin\Debug\netcoreapp2.2\GameMatch.deps.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\GameMatch\bin\Debug\netcoreapp2.2\GameMatch.runtimeconfig.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\GameMatch\bin\Debug\netcoreapp2.2\GameMatch.runtimeconfig.dev.json
+e:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\GameMatch\bin\Debug\netcoreapp2.2\GameMatch.dll
+e:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\GameMatch\bin\Debug\netcoreapp2.2\GameMatch.pdb
+e:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\GameMatch\obj\Debug\netcoreapp2.2\GameMatch.csprojAssemblyReference.cache
+e:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\GameMatch\obj\Debug\netcoreapp2.2\GameMatch.csproj.CoreCompileInputs.cache
+e:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\GameMatch\obj\Debug\netcoreapp2.2\GameMatch.AssemblyInfoInputs.cache
+e:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\GameMatch\obj\Debug\netcoreapp2.2\GameMatch.AssemblyInfo.cs
+e:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\GameMatch\obj\Debug\netcoreapp2.2\GameMatch.dll
+e:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\GameMatch\obj\Debug\netcoreapp2.2\GameMatch.pdb

@@ -1,0 +1,11 @@
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MulticlassClassification\bin\Debug\netcoreapp2.2\MulticlassClassification.deps.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MulticlassClassification\bin\Debug\netcoreapp2.2\MulticlassClassification.runtimeconfig.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MulticlassClassification\bin\Debug\netcoreapp2.2\MulticlassClassification.runtimeconfig.dev.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MulticlassClassification\bin\Debug\netcoreapp2.2\MulticlassClassification.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MulticlassClassification\bin\Debug\netcoreapp2.2\MulticlassClassification.pdb
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MulticlassClassification\obj\Debug\netcoreapp2.2\MulticlassClassification.csprojAssemblyReference.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MulticlassClassification\obj\Debug\netcoreapp2.2\MulticlassClassification.csproj.CoreCompileInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MulticlassClassification\obj\Debug\netcoreapp2.2\MulticlassClassification.AssemblyInfoInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MulticlassClassification\obj\Debug\netcoreapp2.2\MulticlassClassification.AssemblyInfo.cs
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MulticlassClassification\obj\Debug\netcoreapp2.2\MulticlassClassification.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\MulticlassClassification\obj\Debug\netcoreapp2.2\MulticlassClassification.pdb

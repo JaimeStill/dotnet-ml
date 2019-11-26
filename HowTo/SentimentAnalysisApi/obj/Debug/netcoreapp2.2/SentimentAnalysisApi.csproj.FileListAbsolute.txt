@@ -1,0 +1,14 @@
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\SentimentAnalysisApi\bin\Debug\netcoreapp2.2\SentimentAnalysisApi.deps.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\SentimentAnalysisApi\bin\Debug\netcoreapp2.2\SentimentAnalysisApi.runtimeconfig.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\SentimentAnalysisApi\bin\Debug\netcoreapp2.2\SentimentAnalysisApi.runtimeconfig.dev.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\SentimentAnalysisApi\bin\Debug\netcoreapp2.2\SentimentAnalysisApi.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\SentimentAnalysisApi\bin\Debug\netcoreapp2.2\SentimentAnalysisApi.pdb
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\SentimentAnalysisApi\obj\Debug\netcoreapp2.2\SentimentAnalysisApi.csprojAssemblyReference.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\SentimentAnalysisApi\obj\Debug\netcoreapp2.2\SentimentAnalysisApi.csproj.CoreCompileInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\SentimentAnalysisApi\obj\Debug\netcoreapp2.2\SentimentAnalysisApi.RazorAssemblyInfo.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\SentimentAnalysisApi\obj\Debug\netcoreapp2.2\SentimentAnalysisApi.RazorAssemblyInfo.cs
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\SentimentAnalysisApi\obj\Debug\netcoreapp2.2\SentimentAnalysisApi.AssemblyInfoInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\SentimentAnalysisApi\obj\Debug\netcoreapp2.2\SentimentAnalysisApi.AssemblyInfo.cs
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\SentimentAnalysisApi\obj\Debug\netcoreapp2.2\SentimentAnalysisApi.RazorTargetAssemblyInfo.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\SentimentAnalysisApi\obj\Debug\netcoreapp2.2\SentimentAnalysisApi.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\HowTo\SentimentAnalysisApi\obj\Debug\netcoreapp2.2\SentimentAnalysisApi.pdb

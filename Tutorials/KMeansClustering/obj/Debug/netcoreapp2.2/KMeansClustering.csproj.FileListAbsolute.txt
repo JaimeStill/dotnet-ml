@@ -1,0 +1,11 @@
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\KMeansClustering\bin\Debug\netcoreapp2.2\KMeansClustering.deps.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\KMeansClustering\bin\Debug\netcoreapp2.2\KMeansClustering.runtimeconfig.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\KMeansClustering\bin\Debug\netcoreapp2.2\KMeansClustering.runtimeconfig.dev.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\KMeansClustering\bin\Debug\netcoreapp2.2\KMeansClustering.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\KMeansClustering\bin\Debug\netcoreapp2.2\KMeansClustering.pdb
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\KMeansClustering\obj\Debug\netcoreapp2.2\KMeansClustering.csprojAssemblyReference.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\KMeansClustering\obj\Debug\netcoreapp2.2\KMeansClustering.csproj.CoreCompileInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\KMeansClustering\obj\Debug\netcoreapp2.2\KMeansClustering.AssemblyInfoInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\KMeansClustering\obj\Debug\netcoreapp2.2\KMeansClustering.AssemblyInfo.cs
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\KMeansClustering\obj\Debug\netcoreapp2.2\KMeansClustering.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\KMeansClustering\obj\Debug\netcoreapp2.2\KMeansClustering.pdb

@@ -1,0 +1,11 @@
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\Regression\bin\Debug\netcoreapp2.2\Regression.deps.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\Regression\bin\Debug\netcoreapp2.2\Regression.runtimeconfig.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\Regression\bin\Debug\netcoreapp2.2\Regression.runtimeconfig.dev.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\Regression\bin\Debug\netcoreapp2.2\Regression.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\Regression\bin\Debug\netcoreapp2.2\Regression.pdb
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\Regression\obj\Debug\netcoreapp2.2\Regression.csprojAssemblyReference.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\Regression\obj\Debug\netcoreapp2.2\Regression.csproj.CoreCompileInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\Regression\obj\Debug\netcoreapp2.2\Regression.AssemblyInfoInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\Regression\obj\Debug\netcoreapp2.2\Regression.AssemblyInfo.cs
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\Regression\obj\Debug\netcoreapp2.2\Regression.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\Regression\obj\Debug\netcoreapp2.2\Regression.pdb

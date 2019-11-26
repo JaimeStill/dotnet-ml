@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Jaime\\Desktop\\Personal\\ML\\dotnet-ml\\Tutorials\\ObjectDetection\\ObjectDetection.csproj": {}
+  },
+  "projects": {
+    "E:\\Jaime\\Desktop\\Personal\\ML\\dotnet-ml\\Tutorials\\ObjectDetection\\ObjectDetection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Jaime\\Desktop\\Personal\\ML\\dotnet-ml\\Tutorials\\ObjectDetection\\ObjectDetection.csproj",
+        "projectName": "ObjectDetection",
+        "projectPath": "E:\\Jaime\\Desktop\\Personal\\ML\\dotnet-ml\\Tutorials\\ObjectDetection\\ObjectDetection.csproj",
+        "packagesPath": "C:\\Users\\jpsti\\.nuget\\packages\\",
+        "outputPath": "E:\\Jaime\\Desktop\\Personal\\ML\\dotnet-ml\\Tutorials\\ObjectDetection\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jpsti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.ML.ImageAnalytics": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.ML.OnnxTransformer": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

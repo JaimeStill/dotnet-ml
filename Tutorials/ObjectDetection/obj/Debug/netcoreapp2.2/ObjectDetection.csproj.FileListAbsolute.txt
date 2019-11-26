@@ -1,0 +1,11 @@
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\ObjectDetection\bin\Debug\netcoreapp2.2\ObjectDetection.deps.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\ObjectDetection\bin\Debug\netcoreapp2.2\ObjectDetection.runtimeconfig.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\ObjectDetection\bin\Debug\netcoreapp2.2\ObjectDetection.runtimeconfig.dev.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\ObjectDetection\bin\Debug\netcoreapp2.2\ObjectDetection.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\ObjectDetection\bin\Debug\netcoreapp2.2\ObjectDetection.pdb
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\ObjectDetection\obj\Debug\netcoreapp2.2\ObjectDetection.csprojAssemblyReference.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\ObjectDetection\obj\Debug\netcoreapp2.2\ObjectDetection.csproj.CoreCompileInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\ObjectDetection\obj\Debug\netcoreapp2.2\ObjectDetection.AssemblyInfoInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\ObjectDetection\obj\Debug\netcoreapp2.2\ObjectDetection.AssemblyInfo.cs
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\ObjectDetection\obj\Debug\netcoreapp2.2\ObjectDetection.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\ObjectDetection\obj\Debug\netcoreapp2.2\ObjectDetection.pdb

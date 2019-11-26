@@ -1,0 +1,11 @@
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\TransferLearning\bin\Debug\netcoreapp2.2\TransferLearning.deps.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\TransferLearning\bin\Debug\netcoreapp2.2\TransferLearning.runtimeconfig.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\TransferLearning\bin\Debug\netcoreapp2.2\TransferLearning.runtimeconfig.dev.json
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\TransferLearning\bin\Debug\netcoreapp2.2\TransferLearning.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\TransferLearning\bin\Debug\netcoreapp2.2\TransferLearning.pdb
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\TransferLearning\obj\Debug\netcoreapp2.2\TransferLearning.csprojAssemblyReference.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\TransferLearning\obj\Debug\netcoreapp2.2\TransferLearning.csproj.CoreCompileInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\TransferLearning\obj\Debug\netcoreapp2.2\TransferLearning.AssemblyInfoInputs.cache
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\TransferLearning\obj\Debug\netcoreapp2.2\TransferLearning.AssemblyInfo.cs
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\TransferLearning\obj\Debug\netcoreapp2.2\TransferLearning.dll
+E:\Jaime\Desktop\Personal\ML\dotnet-ml\Tutorials\TransferLearning\obj\Debug\netcoreapp2.2\TransferLearning.pdb
